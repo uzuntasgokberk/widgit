@@ -3,3 +3,4 @@ need to pull this file down
 adding some additional configurations
 found a couple of more config values that are needed.
 testfeature4 eklenildi.
+fea5 test.
